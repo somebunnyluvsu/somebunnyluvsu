@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek M Patil
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new technologies.
 - 📫 How to reach me @patilabhi567@gmail.com
 
 <!---
